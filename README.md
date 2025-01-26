@@ -1,11 +1,11 @@
-# catalan-sta-ai-absa-zzz-demo
+# sta-absa-demo-270125
 
 This is a project created by AEMY.
 
 ## Environments
 
-- Preview: https://main--catalan-sta-ai-absa-zzz-demo--aemdemos.aem.page/
-- Live: https://main--catalan-sta-ai-absa-zzz-demo--aemdemos.aem.live/
+- Preview: https://main--sta-absa-demo-270125--aemdemos.aem.page/
+- Live: https://main--sta-absa-demo-270125--aemdemos.aem.live/
 
 ## Installation
 
